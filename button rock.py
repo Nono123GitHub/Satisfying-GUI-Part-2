@@ -3,8 +3,8 @@ from pydub import AudioSegment
 from pydub.playback import play
 import threading
 
-drag = AudioSegment.from_wav("C:\\Users\\nshei\\Desktop\\youtube code\\satisfying pt 2\\drag.wav")
-smash = AudioSegment.from_wav("C:\\Users\\nshei\\Desktop\\youtube code\\satisfying pt 2\\stone_explotano.wav")
+drag = AudioSegment.from_wav("")
+smash = AudioSegment.from_wav("")
 app = Ursina()
 
 
