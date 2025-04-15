@@ -5,9 +5,9 @@ import threading
 import time
 
 # Load audio files
-high = AudioSegment.from_wav("C:\\Users\\nshei\\Desktop\\youtube code\\satisfying pt 2\\intensity\\high.wav")
-mid = AudioSegment.from_wav("C:\\Users\\nshei\\Desktop\\youtube code\\satisfying pt 2\\intensity\\mid.wav")
-low = AudioSegment.from_wav("C:\\Users\\nshei\\Desktop\\youtube code\\satisfying pt 2\\intensity\\low.wav")
+high = AudioSegment.from_wav("")
+mid = AudioSegment.from_wav("")
+low = AudioSegment.from_wav("")
 
 # Initialize app and slider
 app = Ursina()
